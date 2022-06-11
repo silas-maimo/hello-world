@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning proper geezers. Good Luck You Great beautiful bastards of Texas.... </h1>
+   <h1> Thank you, Happy Learning You proper geezers. Good Luck You beautiful bastards of Texas and Canada.... </h1>
 
   
 </form>
