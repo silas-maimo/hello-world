@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>NEW REGISTRATION FORM FOR THESE BEAUTIFUL BASTARDS.....</h1>
-    <h1>You PUSSY ASS NIGGAS thought you got me. The game is the game BITCH ASS NIGGAS. Try again</h1>
+    <h1>You PUSSY ASS NIGGAS thought you got me. The game is the game BITCH ASS NIGGhas. Try again</h1>
     <p>Please fill in this form you beautiful bastards to create an account you beautiful bastards.</p>
     <hr>
      
