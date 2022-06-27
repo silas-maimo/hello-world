@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you beautiful bastards, bitches and niggas, Happy Learning You fucking proper geezers. Good Luck You beautiful bastards of Texas and Canada.... </h1>
+   <h1>Testing</h1>
 
   
 </form>
