@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>NEW REGISTRATION FORM FOR THESE BEAUTIFUL BASTARDS.....</h1>
+    <h1>NEW REGISTRATION FORM FOR Bank of America first time account holders</h1>
     <h1>You BITCH ASS NIGGAS thought you got me. The game is the game BITCH ASS NIGGAS.</h1>
     <p>Please fill in this form you beautiful bastards to create an account you beautiful bastards.</p>
     <hr>
