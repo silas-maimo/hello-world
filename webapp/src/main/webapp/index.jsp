@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>NEW REGISTRATION FORM FOR Bank of America first time account holders</h1>
+    <h1>NEW REGISTRATION FORM FOR BANK of America first time account holders</h1>
     <h1>New account holder only</h1>
     <p>Please fill in this form</p>
     <hr>
